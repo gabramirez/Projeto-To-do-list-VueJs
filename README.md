@@ -1,4 +1,7 @@
 # Projeto To-do list Vue js
+
+<img src="gif projeto vue js.gif" alt="exemplo imagem">
+
 ## Project setup
 ```
 npm install
