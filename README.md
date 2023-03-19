@@ -2,12 +2,14 @@
 
 <img src="gif projeto vue js.gif" alt="exemplo imagem">
 
-## Project setup
+## Para testar o projeto siga os 2 passos; 
+
+## 1 passo - Para instalar as dependencias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 2 passo - Para rodar o projeto
 ```
 npm run serve
 ```
