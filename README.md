@@ -2,7 +2,7 @@
 
 <img src="gif projeto vue js.gif" alt="exemplo imagem">
 
-## Para testar o projeto siga os 2 passos; 
+## Para testar o projeto siga os 2 passos: 
 
 ## 1 passo - Para instalar as dependencias
 ```
