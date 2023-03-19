@@ -1,5 +1,4 @@
-# front-end-boardng
-
+# Projeto To-do list Vue js
 ## Project setup
 ```
 npm install
